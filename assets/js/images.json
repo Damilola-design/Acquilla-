@@ -1,0 +1,57 @@
+ [
+        {
+            "image": "./assets/images/project-6.jpg",
+            "title": "SEO Optimization",
+            "description": "Boost Your Website's Visibility with Professional SEO Optimization Services",
+            "button": "view"
+        },
+        {
+            "image": "./assets/images/project-1.jpg",
+            "title": "Digital Marketing",
+            "description": "Maximize Your Online Presence with Our Expert Digital Marketing Solutions",
+            "button": "view"
+        },
+        {
+            "image": "./assets/images/project-5.jpg",
+            "title": "Keyword Targeting",
+            "description": "Drive Relevant Traffic to Your Website with Strategic Keyword Targeting Strategies",
+            "button": "view"
+        },
+        {
+            "image": "./assets/images/project-1.jpg",
+            "title": "SEO Optimization",
+            "description": "Designing a better cinema experience",
+            "button": "view"
+        },
+        {
+            "image": "./assets/images/project-2.jpg",
+            "title": "Digital Marketing",
+            "description": "Building design process within teams",
+            "button": "view"
+        },
+        {
+            "image": "./assets/images/project-3.jpg",
+            "title": "Keyword Targeting",
+            "description": "How intercom brings play into their design process",
+            "button": "view"
+        },
+        {
+            "image": "./assets/images/project-4.jpg",
+            "title": "Email Marketing",
+            "description": "Stuck with to-do list, I created a new app for",
+            "button": "view"
+        },
+        {
+            "image": "./assets/images/project-6.jpg",
+            "title": "Marketing & Reporting",
+            "description": "Examples of different types of sprints",
+            "button": "view"
+        },
+        {
+            "image": "./assets/images/project-3.jpg",
+            "title": "Web Development",
+            "description": "Redesigning the New York times app",
+            "button": "view"
+        }
+
+    ]
